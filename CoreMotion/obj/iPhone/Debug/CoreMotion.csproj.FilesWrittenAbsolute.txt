@@ -1,0 +1,9 @@
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/device-builds/iphone7.2-10.2/optimized/
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/bin/iPhone/Debug/CoreMotion.exe.mdb
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/bin/iPhone/Debug/CoreMotion.exe
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/CoreMotion.exe
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/CoreMotion.exe.mdb

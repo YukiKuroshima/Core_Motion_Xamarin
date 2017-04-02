@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7EC69921-84C3-4724-9069-EC4760AC9C08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreMotion/CoreMotionViewController.cs">
+    <Files>
+      <File FileName="CoreMotion/CoreMotionViewController.cs" Line="25" Column="3" />
+      <File FileName="CoreMotion/Main.cs" Line="17" Column="1" />
+      <File FileName="CoreMotion/CoreMotionViewController.designer.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoreMotion PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AB15EFD8-21F1-4795-8953-78F5D6716FB5" />
+  <MultiItemStartupConfigurations />
+</Properties>

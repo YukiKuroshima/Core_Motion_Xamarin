@@ -1,0 +1,4 @@
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/device-builds/iphone7.2-10.2/mtouch-cache/Link/CoreMotion.exe
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/device-builds/iphone7.2-10.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/device-builds/iphone7.2-10.2/mtouch-cache/Link/mscorlib.dll
+/Users/yuukikuroshima/Downloads/recipes-master/ios/input/accelerometer/use_coremotion_with_accelerometer/CoreMotion/obj/iPhone/Debug/device-builds/iphone7.2-10.2/mtouch-cache/Link/System.dll
